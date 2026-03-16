@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```
 # Download the preproceesd CATH datasets
-# CATH 4.2 dataset provided by Generative Models for Graph-Based Protein Design
+# CATH 4.2 dataset provided by Generative Models for Graph-Based Protein Design (https://papers.nips.cc/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html)
 # CATH 4.3 dataset provided by Learning inverse folding from millions of predicted structures
 bash scripts/download_cath.sh
 
